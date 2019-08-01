@@ -86,6 +86,9 @@ main .sem-itens{
     align-items: center;
     justify-content: space-between;
 }
+.itens li .nome{
+    flex-basis: 200px;
+}
 .btn-principal {
     background-color: #43b05c;
     color: #fff;
